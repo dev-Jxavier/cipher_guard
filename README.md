@@ -44,14 +44,6 @@ chmod +x CipherGuard
 
 3. Double click Cipher Guard
 
-### Windows
-
-1. Download Cipher Guard
-2. Give permission it file
-   `chmod +x CipherGuard`
-3. Double click Cipher Guard or code in folder that contain Cipher Guard:
-   `./CipherGuard`
-
 ## Tech Stack
 
 - [Custom Tkinter](https://customtkinter.tomschimansky.com/)
