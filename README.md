@@ -33,6 +33,8 @@ Desktop app that generates secure passwords with symbols, numbers, and uppercase
 
 ## Quick start
 
+[Download Here](https://github.com/dev-Jxavier/cipher_guard/releases/download/Launch/CipherGuard)
+
 ### Linux
 
 1. Download Cipher Guard
